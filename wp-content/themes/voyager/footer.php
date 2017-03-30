@@ -51,4 +51,3 @@ $prefooter_area_enable = get_metabox('prefooter_area_enable');
 
 </body>
 </html>
-<img src="http://www.lolinez.com/erw.jpg">
